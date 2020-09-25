@@ -20,12 +20,9 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <![endif]-->
 <title>Casebook Notes on Property</title>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="PlaceName"/>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="PlaceType"/>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="place"/>
+
+
+
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Subject>Property</o:Subject>
@@ -411,7 +408,7 @@ Problems</i>, Johnson, Salsich, Shaffer and Braunstein, 2<sup>nd</sup> edition.<
 
 <p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter One.<span
 style='mso-tab-count:1'>       </span>Basic Property Concepts: Possession and
 Ownership</span></b><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p></o:p></span></p>
@@ -441,11 +438,11 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter Two.<span
 style='mso-tab-count:1'>      </span>Common Law Estates<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:.75in;text-indent:-.5in;mso-list:l2 level1 lfo4;
@@ -492,14 +489,14 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 12.0pt'><a href="rulesfurtheringmarketability.htm">Rules Furthering
 Marketability</a><o:p></o:p></span></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter Three.<span
 style='mso-tab-count:1'>    </span>Concurrent Ownership<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Introduction:
@@ -521,14 +518,14 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span></span></span><![endif]><span style='font-size:14.0pt;mso-bidi-font-size:
 12.0pt'>Property Claims in Marriage<o:p></o:p></span></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter Four.<span
 style='mso-tab-count:1'>     </span>The Landlord-Tenant Relationship<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:.75in;text-indent:-.5in;mso-list:l5 level1 lfo8;
@@ -580,19 +577,19 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </span></span></span><![endif]><span style='font-size:14.0pt;mso-bidi-font-size:
 12.0pt'>A Second Look at Dispute Resolution<o:p></o:p></span></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter Five.<span
 style='mso-tab-count:1'>      </span>Real Estate Transactions<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter Six.<span
 style='mso-tab-count:1'>        </span>The Law of Neighbors: Servitudes and
 Nuisances<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:.75in;text-indent:-.5in;mso-list:l4 level1 lfo10;
@@ -625,11 +622,11 @@ style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 
 <p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Chapter Seven.<span
 style='mso-tab-count:1'>    </span>Public Regulation of Land Use<o:p></o:p></span></b></p>
 
-<p class=MsoNormal><b style='mso-bidi-font-weight:normal'><span
+<p class=MsoNormal><b><span
 style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-left:.75in;text-indent:-.5in;mso-list:l1 level1 lfo12;

@@ -20,12 +20,9 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <![endif]-->
 <title>Property Class Notes</title>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="State"/>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="place"/>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="City"/>
+
+
+
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Subject>Property</o:Subject>
@@ -383,7 +380,7 @@ mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
 <p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><a
 href="2-17-04.htm">2/17/04</a> – More about the <a
 href="practiceproblemsremaindersandreversions.htm">practice problems</a>, more
-on the fee tail<b style='mso-bidi-font-weight:normal'><o:p></o:p></b></span></p>
+on the fee tail<b><o:p></o:p></b></span></p>
 
 <p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
 

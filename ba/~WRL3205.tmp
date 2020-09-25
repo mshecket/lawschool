@@ -20,10 +20,8 @@ w\:* {behavior:url(#default#VML);}
 </style>
 <![endif]-->
 <title>Business Associations Class Notes</title>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="place"/>
-<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
- name="City"/>
+
+
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Subject>Business Assocations</o:Subject>
