@@ -1,0 +1,226 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 10">
+<meta name=Originator content="Microsoft Word 10">
+<link rel=File-List href="classnotes_files/filelist.xml">
+<link rel=Edit-Time-Data href="classnotes_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]-->
+<title>Business Associations Class Notes</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Subject>Business Assocations</o:Subject>
+  <o:Author>Mike Shecket</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Mike Shecket</o:LastAuthor>
+  <o:Revision>9</o:Revision>
+  <o:TotalTime>170</o:TotalTime>
+  <o:Created>2004-05-10T11:59:00Z</o:Created>
+  <o:LastSaved>2004-05-13T17:39:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>217</o:Words>
+  <o:Characters>1028</o:Characters>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>3</o:Paragraphs>
+  <o:CharactersWithSpaces>1242</o:CharactersWithSpaces>
+  <o:Version>10.3501</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>BestFit</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="43010"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=purple style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='margin-bottom:12.0pt'><!--[if gte vml 1]><v:shapetype
+ id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
+ path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" style='width:6in;
+ height:159.75pt'>
+ <v:imagedata src="classnotes_files/image001.jpg" o:title="ba"/>
+</v:shape><![endif]--><![if !vml]><img width=576 height=213
+src="classnotes_files/image003.jpg" v:shapes="_x0000_i1025"><![endif]></p>
+
+<h1>CLASS NOTES</h1>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'>Special
+note: Prof. Shipman lectures in such a way that a virtual word-for-word transcription
+of his lectures is both possible and usefully organized.<span
+style='mso-spacerun:yes'>  </span>Therefore, you can assume that more of these
+notes may be direct quotations than are explicitly so indicated.<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><a
+href="5-10-04.htm">5/10/04</a> – Why are we here?<span
+style='mso-spacerun:yes'>  </span>John Locke, <span class=GramE>The</span> Wealth
+of Nations, associations, sole proprietorships, general partnerships,
+not-for-profit associations<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><a
+href="5-11-04.htm">5/11/04</a> – Business (or for-profit) corporations, the
+corporate family tree, agency, the servant-agent, the non-servant agent,
+consequences of agency, the agent’s lien, notice<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><a
+href="5-12-04.htm">5/12/04</a> – <i style='mso-bidi-font-style:normal'>Respondeat
+superior</i>, corporate securities, guaranty and <span class=SpellE>suretyship</span>,
+tax consequences of different forms of corporations, mutual funds, <span
+class=SpellE>REITs</span>, Subchapters C and S, <span class=SpellE>LLCs</span>
+and Subchapter K<o:p></o:p></span></p>
+
+<p class=MsoNormal><span class=MsoHyperlink><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;color:windowtext;text-decoration:none;text-underline:
+none'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=MsoHyperlink><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;color:windowtext;text-decoration:none;text-underline:
+none'><a href="5-13-04.htm">5/13/04</a> – Professional corporations, <span
+class=SpellE><i style='mso-bidi-font-style:normal'>Hishon</i></span><i
+style='mso-bidi-font-style:normal'> v. King &amp; Spalding</i>, <i
+style='mso-bidi-font-style:normal'>Clackamas v. Wells</i>, workers'
+compensation, <i style='mso-bidi-font-style:normal'>Pinter Construction Company
+v. <span class=SpellE>Frisby</span></i>, malpractice insurance, <span
+class=SpellE><i style='mso-bidi-font-style:normal'>Perl</i></span><i
+style='mso-bidi-font-style:normal'> v. St. Paul Fire &amp; Marine</i><o:p></o:p></span></span></p>
+
+<div style='border:none;border-bottom:solid windowtext 1.0pt;mso-border-bottom-alt:
+solid windowtext .75pt;padding:0in 0in 1.0pt 0in'>
+
+<p class=MsoNormal style='border:none;mso-border-bottom-alt:solid windowtext .75pt;
+padding:0in;mso-padding-alt:0in 0in 1.0pt 0in'><span class=MsoHyperlink><span
+style='font-size:14.0pt;mso-bidi-font-size:12.0pt;color:windowtext;text-decoration:
+none;text-underline:none'><o:p>&nbsp;</o:p></span></span></p>
+
+</div>
+
+<p class=MsoNormal><span class=MsoHyperlink><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;color:windowtext;text-decoration:none;text-underline:
+none'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=MsoHyperlink><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;color:windowtext;text-decoration:none;text-underline:
+none'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span class=MsoHyperlink><span style='font-size:14.0pt;
+mso-bidi-font-size:12.0pt;color:windowtext;text-decoration:none;text-underline:
+none'><o:p>&nbsp;</o:p></span></span></p>
+
+<p class=MsoNormal><span style='font-size:14.0pt;mso-bidi-font-size:12.0pt'><a
+href="index.html">Back to Business Associations</a><span class=MsoHyperlink><span
+style='color:windowtext;text-decoration:none;text-underline:none'><o:p></o:p></span></span></span></p>
+
+</div>
+
+</body>
+
+</html>
